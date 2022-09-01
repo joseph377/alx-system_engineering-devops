@@ -1,12 +1,3 @@
 #!/bin/bash
 pwd
-press
-control x
 0-current_working_directory
-press
-C-x C-s > saving
-C-x C-c > quitting
-C-x C-c > quitting
-ls -a
-control x
-control c
