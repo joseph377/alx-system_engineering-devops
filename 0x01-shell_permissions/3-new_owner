@@ -1,5 +1,3 @@
 
-#!/bin/bash
-cd ~
-#!/bin/bash/
+chown: invalid user: ‘betty’
 sudo chown betty hello
