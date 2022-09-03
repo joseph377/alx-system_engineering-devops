@@ -1,3 +1,6 @@
+
+#!/bin/bash
+cd ~
 #!/bin/bash
 pwd
 ls
